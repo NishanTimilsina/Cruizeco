@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  cruizeco
+//
+//  Created by Kishor Kundan on 7/8/15.
+//  Copyright (c) 2015 Kishor Kundan. All rights reserved.
+//
+
+#ifndef cruizeco_PrefixHeader_pch
+#define cruizeco_PrefixHeader_pch
+
+#import "Constants.h"
+
+#endif
